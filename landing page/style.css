@@ -53,30 +53,30 @@ body {
 
 .titulo-conteudo11{
     font-family: 'Inter', sans-serif;
-font-weight: 800;
-font-size: 96px;
-width: 599px;
-height: 229px;
-color: #CA2626;
+    font-weight: 800;
+    font-size: 96px;
+    width: 599px;
+    height: 229px;
+    color: #CA2626;
 }
 
 .subtitulo-conteudo11{
     font-family: 'Inter', sans-serif;
     font-weight: 500;
-font-size: 32px;
-color: #C16969;
+    font-size: 32px;
+    color: #C16969;
 }
 
 .botao-conteudo11{
     background-color: #8E1B1B;
     width: 324px;
-height: 88px;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border: none;
-color: #FFFFFF;
-font-family: 'Inter', sans-serif;
-font-weight: 700;
-font-size: 32px;
+    height: 88px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
 }
 
 .botao-conteudo11:hover {
@@ -90,12 +90,12 @@ font-size: 32px;
 .conteudo2 {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
-font-size: 32px;
-color: #DE5454;
-display: flex;
-flex-direction: column;
-align-items: center;
-margin-top: 48px;
+    font-size: 32px;
+    color: #DE5454;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 48px;
 }
 
 .rodape {
@@ -104,7 +104,7 @@ margin-top: 48px;
 
 .logo-rodape{
     width: 300px;
-height: 53px;
-display: block;
-margin: 0 auto;
+    height: 53px;
+    display: block;
+    margin: 0 auto;
 }
