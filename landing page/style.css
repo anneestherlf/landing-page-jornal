@@ -119,3 +119,27 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+.titulo_faq{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    color: #CA2626;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    
+}
+
+.itemfaq{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: #CA2626;
+    background-color: #d17a4825;
+    width: max-content;
+}
+
+.itemcont{
+    background-color: #ffffff75;
+    width:max-content;
+}
