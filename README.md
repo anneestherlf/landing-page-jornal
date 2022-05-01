@@ -1,4 +1,4 @@
-# Landing Page - Jornal Digital
+# landing page - jornal digital
 
  
  ![Landing Page](https://raw.githubusercontent.com/anneestherlf/landing-page-jornal/main/landing%20page/images/readme/dailynewsletter1.png)
