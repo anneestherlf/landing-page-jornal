@@ -1,6 +1,6 @@
 # landing page - jornal digital
 
-<h3> my simple but <i>first</i> landing page! </h3>
+My simple but first Landing Page -> <a href="https://anneestherlf.github.io/landing-page-jornal">Clique aqui</a> para ver o resultado
 
 <img align="right" alt="html" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
 <img align="right" alt="css" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
@@ -9,5 +9,3 @@
 <br>
 <br>
 
- ![Landing Page](https://raw.githubusercontent.com/anneestherlf/landing-page-jornal/main/landing%20page/images/readme/dailynewsletter1.png)
- ![Landing Page](https://raw.githubusercontent.com/anneestherlf/landing-page-jornal/main/landing%20page/images/readme/dailynewsletter2.png)
